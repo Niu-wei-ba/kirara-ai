@@ -53,7 +53,7 @@ dependencies = [
     "sqlalchemy",
     "alembic",
     "mcp",
-    "pygls",
+    "pygls<1.0",
     "jedi",
     "pyflakes",
 ]
